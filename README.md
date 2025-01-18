@@ -31,8 +31,18 @@ my leetcode progress
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/AmartyaKumar11/Leetcode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/AmartyaKumar11/Leetcode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
