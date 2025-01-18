@@ -27,4 +27,12 @@ my leetcode progress
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/AmartyaKumar11/Leetcode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/AmartyaKumar11/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
