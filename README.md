@@ -34,6 +34,7 @@ my leetcode progress
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/AmartyaKumar11/Leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 ## Stack
@@ -49,4 +50,12 @@ my leetcode progress
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
