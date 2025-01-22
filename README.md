@@ -9,12 +9,14 @@ my leetcode progress
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -29,6 +31,7 @@ my leetcode progress
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
 ## Shortest Path
 |  |
