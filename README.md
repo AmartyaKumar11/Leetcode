@@ -10,6 +10,7 @@ my leetcode progress
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1603-running-sum-of-1d-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
 ## Breadth-First Search
@@ -90,6 +91,7 @@ my leetcode progress
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
