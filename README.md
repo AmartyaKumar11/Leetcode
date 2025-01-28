@@ -48,6 +48,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/AmartyaKumar11/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0071-simplify-path](https://github.com/AmartyaKumar11/Leetcode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
