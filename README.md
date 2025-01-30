@@ -61,6 +61,7 @@ my leetcode progress
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -74,6 +75,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -125,4 +127,8 @@ my leetcode progress
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
