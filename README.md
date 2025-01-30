@@ -63,6 +63,7 @@ my leetcode progress
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AmartyaKumar11/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 ## Recursion
