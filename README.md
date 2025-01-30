@@ -7,6 +7,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -37,6 +38,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -80,6 +82,7 @@ my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
