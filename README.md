@@ -8,6 +8,7 @@ my leetcode progress
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -83,6 +84,7 @@ my leetcode progress
 | [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0120-triangle) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
