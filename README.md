@@ -17,6 +17,7 @@ my leetcode progress
 | [1603-running-sum-of-1d-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
+| [3429-special-array-i](https://github.com/AmartyaKumar11/Leetcode/tree/master/3429-special-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
