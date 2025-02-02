@@ -16,6 +16,7 @@ my leetcode progress
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmartyaKumar11/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
 | [3429-special-array-i](https://github.com/AmartyaKumar11/Leetcode/tree/master/3429-special-array-i) |
 ## Breadth-First Search
