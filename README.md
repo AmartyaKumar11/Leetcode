@@ -10,6 +10,7 @@ my leetcode progress
 | [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -94,6 +95,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmartyaKumar11/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
