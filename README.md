@@ -15,6 +15,7 @@ my leetcode progress
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1876-map-of-highest-peak](https://github.com/AmartyaKumar11/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -99,6 +100,7 @@ my leetcode progress
 | [0141-linked-list-cycle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmartyaKumar11/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +114,7 @@ my leetcode progress
 | ------- |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +133,7 @@ my leetcode progress
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Topological Sort
 |  |
 | ------- |
