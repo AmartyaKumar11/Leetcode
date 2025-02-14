@@ -13,6 +13,7 @@ my leetcode progress
 | [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AmartyaKumar11/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -73,6 +74,7 @@ my leetcode progress
 | [0007-reverse-integer](https://github.com/AmartyaKumar11/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
+| [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -152,4 +154,8 @@ my leetcode progress
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
