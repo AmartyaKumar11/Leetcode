@@ -6,6 +6,7 @@ my leetcode progress
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AmartyaKumar11/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0120-triangle) |
@@ -44,6 +45,7 @@ my leetcode progress
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AmartyaKumar11/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -162,4 +164,8 @@ my leetcode progress
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AmartyaKumar11/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
