@@ -13,6 +13,7 @@ my leetcode progress
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0875-longest-mountain-in-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -87,6 +88,7 @@ my leetcode progress
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0875-longest-mountain-in-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ my leetcode progress
 | [0063-unique-paths-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0120-triangle) |
+| [0875-longest-mountain-in-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -168,4 +171,8 @@ my leetcode progress
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmartyaKumar11/Leetcode/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
