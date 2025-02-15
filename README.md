@@ -15,6 +15,7 @@ my leetcode progress
 | [0407-trapping-rain-water-ii](https://github.com/AmartyaKumar11/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0875-longest-mountain-in-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AmartyaKumar11/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1306-minimum-absolute-difference](https://github.com/AmartyaKumar11/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@ my leetcode progress
 | ------- |
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AmartyaKumar11/Leetcode/tree/master/0217-contains-duplicate) |
+| [1306-minimum-absolute-difference](https://github.com/AmartyaKumar11/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
