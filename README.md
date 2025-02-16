@@ -70,6 +70,7 @@ my leetcode progress
 | [0179-largest-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmartyaKumar11/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0800-letter-case-permutation](https://github.com/AmartyaKumar11/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -187,4 +188,9 @@ my leetcode progress
 | ------- |
 | [0136-single-number](https://github.com/AmartyaKumar11/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/AmartyaKumar11/Leetcode/tree/master/0338-counting-bits) |
+| [0800-letter-case-permutation](https://github.com/AmartyaKumar11/Leetcode/tree/master/0800-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/AmartyaKumar11/Leetcode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
