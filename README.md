@@ -27,6 +27,7 @@ my leetcode progress
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AmartyaKumar11/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AmartyaKumar11/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/AmartyaKumar11/Leetcode/tree/master/2145-grid-game) |
+| [2551-apply-operations-to-an-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3429-special-array-i](https://github.com/AmartyaKumar11/Leetcode/tree/master/3429-special-array-i) |
 ## Breadth-First Search
 |  |
@@ -93,6 +94,7 @@ my leetcode progress
 | [0005-longest-palindromic-substring](https://github.com/AmartyaKumar11/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/AmartyaKumar11/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0875-longest-mountain-in-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [2551-apply-operations-to-an-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +181,7 @@ my leetcode progress
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmartyaKumar11/Leetcode/tree/master/0054-spiral-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/AmartyaKumar11/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
 |  |
 | ------- |
