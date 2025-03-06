@@ -85,6 +85,7 @@ my leetcode progress
 | [0062-unique-paths](https://github.com/AmartyaKumar11/Leetcode/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/AmartyaKumar11/Leetcode/tree/master/0224-basic-calculator) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AmartyaKumar11/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AmartyaKumar11/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
